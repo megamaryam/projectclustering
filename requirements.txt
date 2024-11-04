@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+scikit-learn-extra
+matplotlib
+streamlit-option-menu
+openpyxl
+kneed
