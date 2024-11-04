@@ -6,3 +6,4 @@ matplotlib
 streamlit-option-menu
 openpyxl
 kneed
+seaborn
